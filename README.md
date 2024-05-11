@@ -10,7 +10,7 @@ Logo abaixo segue uma versão marketeira do chatbot. Se trat de uma adaptação 
 
 
 ---
-##Cansado de ficar revirando páginas em busca de respostas?
+## Cansado de ficar revirando páginas em busca de respostas?
 
 Ler livro é chato? Não tem paciência? Estudar e ficar procurando os conteúdos é uma tarefa custosa pra você?
 Apresento o Chatbot **Converse com seu Livro** seu assistente virtual para "conversar" com qualquer livro. Faça perguntas, responda perguntas e interaja com o livro que você está lendo/estudando.
